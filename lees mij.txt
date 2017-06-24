@@ -1,0 +1,23 @@
+Bekijk de foto, de pagina die jij gaat maken moet er exact zo uit zien. (of uitgebreid/meer)
+
+Je mag alle technieken gebruiken die je kent.
+De fotos krijg je.
+De icoontjes komen van een externe partij
+
+Wat punten die belangerijk zijn:
+-Foto in het midden is een slider. De 3 fotos die moeten sliden zit in het foldertje waar alles in zit.
+-Als je klikt op 1 van de icoontjes komt er een stukje tekst wat er bij hoord te voorschijn en verdwijnt degene die eerst actief stond.
+-Als je naar beneden scrolled dan verdwijnt na 120px het top navbar menu waar tel en send mail in staan
+-als je op send mail klikt opent hij je mail met als adres degene die je hebt aangegeven
+-De hele site is perfect te bekijken op mobiel, tablet, pc etc
+-Home linkt naar top
+-Footer linkt naar footer
+
+Hier nog een video waar je kunt kijken hoe alles eruit zou moeten zien.
+https://www.youtube.com/watch?v=wlOSJcCN4RU
+
+
+Belangerijk:
+Zorg dat je alles wat je hebt gemaakt kunt uitleggen
+
+succes
